@@ -1,6 +1,30 @@
 {
 	"data": [
 		{
+			"name": "okami",
+			"rarity": 4,
+			"combat_type": "lightning",
+			"path": "nihility",
+			"release": "25.0-1",
+			"gachaCardOffset": { "t": 100, "l": -30, "w": 450 }
+		},
+		{
+			"name": "vilkas",
+			"rarity": 4,
+			"combat_type": "imaginary",
+			"path": "preservation",
+			"release": "25.0-1",
+			"gachaCardOffset": { "t": 100, "l": -30, "w": 450 }
+		},
+		{
+			"name": "yusk",
+			"rarity": 5,
+			"combat_type": "ice",
+			"path": "erudition",
+			"release": "25.0-1",
+			"gachaCardOffset": { "t": 100, "l": -30, "w": 450 }
+		},
+		{
 			"pro": true,
 			"name": "xueyi",
 			"rarity": 4,

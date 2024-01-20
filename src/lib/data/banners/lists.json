@@ -1,6 +1,12 @@
 {
 	"banners": [
 		{
+			"id": 250,
+			"name": "artic-loneliness-in-the-wild",
+			"featured": "yusk",
+			"type": "character-event"
+		},
+		{
 			"id": 1,
 			"name": "departure",
 			"type": "starter"
